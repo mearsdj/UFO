@@ -6,4 +6,5 @@ The goal of this project was to create an interactive table using `java script` 
 ## Results
 The table is searchable!
 
-https://github.com/mearsdj/UFO/tree/main/images/FilterDemo.mp4
+https://user-images.githubusercontent.com/25981970/180110714-e3993685-ccab-4a01-b68f-e921180ebc44.mp4
+
